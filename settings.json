@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OxyCraft.aternos.me:35200",
+    "ip": "OxyCraft.aternos.me",
     "port": 35200,
     "version": "",
     "try-creative": false
