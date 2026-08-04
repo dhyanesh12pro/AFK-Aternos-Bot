@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Dhyanesh12.aternos.me:54653",
+    "ip": "Dhyanesh12.aternos.me",
     "port": 54653,
     "version": "26.2",
     "try-creative": false
