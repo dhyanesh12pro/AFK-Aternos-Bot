@@ -1,21 +1,21 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "afkbot",
+    "username": "Alex",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Dhyanesh12.aternos.me",
-    "port": 54653,
+    "ip": "OxyCraft.aternos.me:35200",
+    "port": 35200,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 1000,
+    "x": 0,
     "y": 100,
-    "z": 800
+    "z": 0
   },
   "utils": {
     "auto-auth": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "Hi",
-        "I like Dhyanesh's server",
+        "I like Oxy Craft server",
         "I like to play Minecraft!"
       ]
     },
@@ -59,18 +59,18 @@
   },
   "modules": {
     "avoidMobs": true,
-    "combat": false,
-    "beds": false,
+    "combat": true,
+    "beds": true,
     "chat": false,
     "console-commands": false
   },
   "combat": {
-    "attack-mobs": false,
-    "auto-eat": false
+    "attack-mobs": true,
+    "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
