@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Alex",
+    "username": "Alex996t",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "OxyCraft.aternos.me",
-    "port": 35200,
+    "ip": "BlueWeb.aternos.me",
+    "port": 60612,
     "version": "",
     "try-creative": false
   },
